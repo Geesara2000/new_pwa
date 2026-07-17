@@ -1,0 +1,842 @@
+[
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 1
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "offlineQueueCreated": 0,
+    "offlineQueueLength": 0,
+    "syncSuccess": 0
+  }
+]

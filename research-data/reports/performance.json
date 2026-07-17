@@ -1,0 +1,1082 @@
+[
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14460,
+    "loadTime": 14412.39999961853,
+    "ttfb": 2.0999999046325684,
+    "apiLatency": 241.30000003178915
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57656,
+    "loadTime": 57481.89999961853,
+    "ttfb": 29.59999990463257,
+    "apiLatency": 574.5999999046326
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14396.400000095367,
+    "ttfb": 3.6999998092651367,
+    "apiLatency": 178.43333339691162
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14372,
+    "loadTime": 14232.5,
+    "ttfb": 6,
+    "apiLatency": 215.9999998410543
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14400,
+    "loadTime": 14342.60000038147,
+    "ttfb": 7.700000286102295,
+    "apiLatency": 241.95000004768372
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14440,
+    "loadTime": 14399.400000095367,
+    "ttfb": 2.5999999046325684,
+    "apiLatency": 228.5
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14220,
+    "loadTime": 14165.200000286102,
+    "ttfb": 8.800000190734863,
+    "apiLatency": 224
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14397.799999713898,
+    "ttfb": 3.299999713897705,
+    "apiLatency": 228.09999990463257
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14436,
+    "loadTime": 14391.900000095367,
+    "ttfb": 3.9000000953674316,
+    "apiLatency": 228.0000001589457
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58308,
+    "loadTime": 58263,
+    "ttfb": 2,
+    "apiLatency": 523.0999999046326
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58084,
+    "loadTime": 58040.59999990463,
+    "ttfb": 5.300000190734863,
+    "apiLatency": 583.1333332061768
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14400,
+    "loadTime": 14359.900000095367,
+    "ttfb": 2.799999713897705,
+    "apiLatency": 227.23333326975504
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14384,
+    "loadTime": 14339.10000038147,
+    "ttfb": 4.200000286102295,
+    "apiLatency": 238.40000009536743
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14440,
+    "loadTime": 14397,
+    "ttfb": 3.5,
+    "apiLatency": 177.3666664759318
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14392,
+    "loadTime": 14342,
+    "ttfb": 4,
+    "apiLatency": 216.43333307902017
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14400,
+    "ttfb": 3.299999713897705,
+    "apiLatency": 232.5333333015442
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58112,
+    "loadTime": 58061.09999990463,
+    "ttfb": 3.5,
+    "apiLatency": 580.9000000953674
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14380,
+    "loadTime": 14341.300000190735,
+    "ttfb": 3.5,
+    "apiLatency": 219.5333333015442
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58108,
+    "loadTime": 58059.699999809265,
+    "ttfb": 6.400000095367432,
+    "apiLatency": 582.9666665395101
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14384,
+    "loadTime": 14341.10000038147,
+    "ttfb": 4.100000381469727,
+    "apiLatency": 244.00000023841858
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14440,
+    "loadTime": 14397.700000286102,
+    "ttfb": 3.8000001907348633,
+    "apiLatency": 173.8333331743876
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14432,
+    "loadTime": 14390.200000286102,
+    "ttfb": 3.4000000953674316,
+    "apiLatency": 173.4999998410543
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14456,
+    "loadTime": 14367,
+    "ttfb": 117.39999961853027,
+    "apiLatency": 213.19999996821085
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14444,
+    "loadTime": 14406.199999809265,
+    "ttfb": 2.1999998092651367,
+    "apiLatency": 180.30000003178915
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14488,
+    "loadTime": 14409.900000095367,
+    "ttfb": 93.2000002861023,
+    "apiLatency": 240.76666657129923
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57496,
+    "loadTime": 57339,
+    "ttfb": 6.399999618530273,
+    "apiLatency": 653.6000000635782
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58324,
+    "loadTime": 58273.90000009537,
+    "ttfb": 2.1999998092651367,
+    "apiLatency": 526.8250000476837
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58112,
+    "loadTime": 58040.800000190735,
+    "ttfb": 4.599999904632568,
+    "apiLatency": 563.4333332379659
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58316,
+    "loadTime": 58268.09999990463,
+    "ttfb": 5.5,
+    "apiLatency": 520.5
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14320,
+    "loadTime": 14225.39999961853,
+    "ttfb": 4.699999809265137,
+    "apiLatency": 218.46666685740152
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57576,
+    "loadTime": 57397.2000002861,
+    "ttfb": 8.900000095367432,
+    "apiLatency": 591.6999999682108
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14448,
+    "loadTime": 14403.099999904633,
+    "ttfb": 4.5,
+    "apiLatency": 234.09999990463257
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14388,
+    "loadTime": 14252.400000095367,
+    "ttfb": 7.599999904632568,
+    "apiLatency": 216.80000019073486
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58308,
+    "loadTime": 58264.90000009537,
+    "ttfb": 2,
+    "apiLatency": 550.4750000238419
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57652,
+    "loadTime": 57488.40000009537,
+    "ttfb": 8.800000190734863,
+    "apiLatency": 581.6666666666666
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14192,
+    "loadTime": 14155.5,
+    "ttfb": 5.699999809265137,
+    "apiLatency": 166.53333314259848
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14456,
+    "loadTime": 14412.699999809265,
+    "ttfb": 2.1999998092651367,
+    "apiLatency": 174.23333342870077
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58152,
+    "loadTime": 58050.39999961853,
+    "ttfb": 7.399999618530273,
+    "apiLatency": 572.3000001907349
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14412,
+    "loadTime": 14369.199999809265,
+    "ttfb": 2.5999999046325684,
+    "apiLatency": 175.90000009536743
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58312,
+    "loadTime": 58265.699999809265,
+    "ttfb": 3.0999999046325684,
+    "apiLatency": 523.3749997615814
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14444,
+    "loadTime": 14398.099999904633,
+    "ttfb": 2.5999999046325684,
+    "apiLatency": 173.66666666666666
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14444,
+    "loadTime": 14398.700000286102,
+    "ttfb": 2.700000286102295,
+    "apiLatency": 180.9666665395101
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57396,
+    "loadTime": 57312.59999990463,
+    "ttfb": 6.099999904632568,
+    "apiLatency": 579.8999999364218
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14440,
+    "loadTime": 14399.400000095367,
+    "ttfb": 2.6999998092651367,
+    "apiLatency": 235.93333339691162
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58140,
+    "loadTime": 58044.59999990463,
+    "ttfb": 5.099999904632568,
+    "apiLatency": 560.5
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14200,
+    "loadTime": 14162.5,
+    "ttfb": 5.200000286102295,
+    "apiLatency": 161.10000006357828
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14452,
+    "loadTime": 14405.60000038147,
+    "ttfb": 2.4000000953674316,
+    "apiLatency": 226.10000006357828
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14204,
+    "loadTime": 14163.900000095367,
+    "ttfb": 3.5,
+    "apiLatency": 168.43333339691162
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58328,
+    "loadTime": 58269.40000009537,
+    "ttfb": 2.3000001907348633,
+    "apiLatency": 594.875
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14456,
+    "loadTime": 14409.5,
+    "ttfb": 3.799999713897705,
+    "apiLatency": 233.30000019073486
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14736,
+    "loadTime": 14496.799999713898,
+    "ttfb": 5.599999904632568,
+    "apiLatency": 255.5000001589457
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14440,
+    "loadTime": 14399.900000095367,
+    "ttfb": 5.400000095367432,
+    "apiLatency": 231
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58748,
+    "loadTime": 58486.09999990463,
+    "ttfb": 2.700000286102295,
+    "apiLatency": 567.6750000715256
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14448,
+    "loadTime": 14405.599999904633,
+    "ttfb": 3.5,
+    "apiLatency": 177
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14392,
+    "loadTime": 14349.799999713898,
+    "ttfb": 5.199999809265137,
+    "apiLatency": 243.29999995231628
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58308,
+    "loadTime": 58265.59999990463,
+    "ttfb": 2.4000000953674316,
+    "apiLatency": 523.625
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14380,
+    "loadTime": 14341.099999904633,
+    "ttfb": 4.199999809265137,
+    "apiLatency": 218.33333333333334
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14384,
+    "loadTime": 14340.5,
+    "ttfb": 4.5,
+    "apiLatency": 215.36666679382324
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14172,
+    "loadTime": 14132.5,
+    "ttfb": 5,
+    "apiLatency": 165.9666666984558
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14436,
+    "loadTime": 14397.200000286102,
+    "ttfb": 2.8000001907348633,
+    "apiLatency": 230.79999987284342
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58292,
+    "loadTime": 58236.7999997139,
+    "ttfb": 1.799999713897705,
+    "apiLatency": 522.1499999761581
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58080,
+    "loadTime": 58031.699999809265,
+    "ttfb": 3.0999999046325684,
+    "apiLatency": 589.1333333651224
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57608,
+    "loadTime": 57448.09999990463,
+    "ttfb": 9,
+    "apiLatency": 639.8666667938232
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14200,
+    "loadTime": 14163.199999809265,
+    "ttfb": 5.199999809265137,
+    "apiLatency": 166.26666673024496
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14396,
+    "loadTime": 14355.800000190735,
+    "ttfb": 5.200000286102295,
+    "apiLatency": 225.5333334604899
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14444,
+    "loadTime": 14400,
+    "ttfb": 3.8000001907348633,
+    "apiLatency": 229.30000019073486
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58108,
+    "loadTime": 58058.09999990463,
+    "ttfb": 3.1999998092651367,
+    "apiLatency": 558.0666666030884
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14448,
+    "loadTime": 14405.099999904633,
+    "ttfb": 2.0999999046325684,
+    "apiLatency": 235.16666650772095
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58100,
+    "loadTime": 58033.59999990463,
+    "ttfb": 5.799999713897705,
+    "apiLatency": 575.5
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14196,
+    "loadTime": 14158.5,
+    "ttfb": 6.200000286102295,
+    "apiLatency": 214.40000009536743
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14384,
+    "loadTime": 14343.900000095367,
+    "ttfb": 3.5,
+    "apiLatency": 240.15000009536743
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58344,
+    "loadTime": 58297.90000009537,
+    "ttfb": 4.800000190734863,
+    "apiLatency": 533.5750000476837
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58312,
+    "loadTime": 58261.800000190735,
+    "ttfb": 2.0999999046325684,
+    "apiLatency": 531.0500000715256
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14440,
+    "loadTime": 14396.199999809265,
+    "ttfb": 2.6999998092651367,
+    "apiLatency": 172.8666664759318
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14399.400000095367,
+    "ttfb": 3.200000286102295,
+    "apiLatency": 226.1333335240682
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14360,
+    "loadTime": 14312.900000095367,
+    "ttfb": 6.599999904632568,
+    "apiLatency": 219.60000006357828
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14399,
+    "ttfb": 2.4000000953674316,
+    "apiLatency": 172.39999993642172
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14452,
+    "loadTime": 14406.900000095367,
+    "ttfb": 2.1000003814697266,
+    "apiLatency": 175.5
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14384,
+    "loadTime": 14342.900000095367,
+    "ttfb": 3.9000000953674316,
+    "apiLatency": 242.25
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58444,
+    "loadTime": 58311.10000038147,
+    "ttfb": 3.1000003814697266,
+    "apiLatency": 566.6749999523163
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14252,
+    "loadTime": 14176.599999904633,
+    "ttfb": 11.900000095367432,
+    "apiLatency": 218.43333339691162
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14392,
+    "loadTime": 14352.5,
+    "ttfb": 7.800000190734863,
+    "apiLatency": 243.59999990463257
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14204,
+    "loadTime": 14163.099999904633,
+    "ttfb": 4,
+    "apiLatency": 160.93333339691162
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14448,
+    "loadTime": 14405.400000095367,
+    "ttfb": 4.5,
+    "apiLatency": 176.26666673024496
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58348,
+    "loadTime": 58297.40000009537,
+    "ttfb": 3.1999998092651367,
+    "apiLatency": 517.0250000953674
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14440,
+    "loadTime": 14396.699999809265,
+    "ttfb": 2.3999996185302734,
+    "apiLatency": 229.86666679382324
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58316,
+    "loadTime": 58270.59999990463,
+    "ttfb": 2.5999999046325684,
+    "apiLatency": 534.5500000715256
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14380,
+    "loadTime": 14334.099999904633,
+    "ttfb": 5.800000190734863,
+    "apiLatency": 241.5
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14404,
+    "loadTime": 14357.699999809265,
+    "ttfb": 3.5999999046325684,
+    "apiLatency": 216.89999993642172
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58352,
+    "loadTime": 58302.09999990463,
+    "ttfb": 3.299999713897705,
+    "apiLatency": 525.7999999523163
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14448,
+    "loadTime": 14405.099999904633,
+    "ttfb": 4,
+    "apiLatency": 229
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57572,
+    "loadTime": 57414.10000038147,
+    "ttfb": 15.5,
+    "apiLatency": 626.8666667938232
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14172,
+    "loadTime": 14134.5,
+    "ttfb": 3.3000001907348633,
+    "apiLatency": 219.13333320617676
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58316,
+    "loadTime": 58272.5,
+    "ttfb": 2.3000001907348633,
+    "apiLatency": 514.8500001430511
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14460,
+    "loadTime": 14411.199999809265,
+    "ttfb": 4.599999904632568,
+    "apiLatency": 179.93333339691162
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14404.900000095367,
+    "ttfb": 5.100000381469727,
+    "apiLatency": 239.66666650772095
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14264,
+    "loadTime": 14183.800000190735,
+    "ttfb": 8.599999904632568,
+    "apiLatency": 215.40000009536743
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57344,
+    "loadTime": 57298.90000009537,
+    "ttfb": 6,
+    "apiLatency": 630.6666666666666
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14380,
+    "loadTime": 14341,
+    "ttfb": 8.799999713897705,
+    "apiLatency": 224.26666673024496
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14196,
+    "loadTime": 14160.800000190735,
+    "ttfb": 5.5,
+    "apiLatency": 169
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14396,
+    "loadTime": 14346.800000190735,
+    "ttfb": 3.8000001907348633,
+    "apiLatency": 240.39999985694885
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14432,
+    "loadTime": 14392.799999713898,
+    "ttfb": 2.1999998092651367,
+    "apiLatency": 176.60000006357828
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14204,
+    "loadTime": 14164.5,
+    "ttfb": 7.200000286102295,
+    "apiLatency": 164.86666679382324
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "LOW",
+    "fcp": 14452,
+    "loadTime": 14406.800000190735,
+    "ttfb": 2.700000286102295,
+    "apiLatency": 181.13333336512247
+  },
+  {
+    "version": "C",
+    "network": "Fast4G",
+    "battery": "LOW",
+    "fcp": 14436,
+    "loadTime": 14395.5,
+    "ttfb": 5.099999904632568,
+    "apiLatency": 224.19999996821085
+  },
+  {
+    "version": "B",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14588,
+    "loadTime": 14417.60000038147,
+    "ttfb": 9,
+    "apiLatency": 244.10000014305115
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14436,
+    "loadTime": 14397.400000095367,
+    "ttfb": 4.700000286102295,
+    "apiLatency": 173.09999990463257
+  },
+  {
+    "version": "A",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14288,
+    "loadTime": 14184.599999904633,
+    "ttfb": 34,
+    "apiLatency": 215.86666663487753
+  },
+  {
+    "version": "B",
+    "network": "Fast4G",
+    "battery": "N/A",
+    "fcp": 14380,
+    "loadTime": 14340.800000190735,
+    "ttfb": 2.8000001907348633,
+    "apiLatency": 218.0666667620341
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14402.5,
+    "ttfb": 4.5,
+    "apiLatency": 177.93333307902017
+  },
+  {
+    "version": "B",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 58152,
+    "loadTime": 58062.199999809265,
+    "ttfb": 3.4000000953674316,
+    "apiLatency": 577.5333333015442
+  },
+  {
+    "version": "C",
+    "network": "Offline",
+    "battery": "HIGH",
+    "fcp": 14444,
+    "loadTime": 14398,
+    "ttfb": 3.5,
+    "apiLatency": 177.83333349227905
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58348,
+    "loadTime": 58301.2000002861,
+    "ttfb": 4.099999904632568,
+    "apiLatency": 538.4750000238419
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14228,
+    "loadTime": 14175.400000095367,
+    "ttfb": 6,
+    "apiLatency": 162.36666679382324
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57536,
+    "loadTime": 57385.60000038147,
+    "ttfb": 17.300000190734863,
+    "apiLatency": 595.9333333969116
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "LOW",
+    "fcp": 58556,
+    "loadTime": 58393,
+    "ttfb": 16.699999809265137,
+    "apiLatency": 544.0750000476837
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58320,
+    "loadTime": 58269.10000038147,
+    "ttfb": 2.700000286102295,
+    "apiLatency": 566.1500000953674
+  },
+  {
+    "version": "C",
+    "network": "Slow3G",
+    "battery": "HIGH",
+    "fcp": 58308,
+    "loadTime": 58264.7000002861,
+    "ttfb": 2.4000000953674316,
+    "apiLatency": 525.5750000476837
+  },
+  {
+    "version": "A",
+    "network": "Offline",
+    "battery": "N/A",
+    "fcp": 14200,
+    "loadTime": 14161.89999961853,
+    "ttfb": 4.5,
+    "apiLatency": 160.33333333333334
+  },
+  {
+    "version": "A",
+    "network": "Slow3G",
+    "battery": "N/A",
+    "fcp": 57740,
+    "loadTime": 57547.09999990463,
+    "ttfb": 6.199999809265137,
+    "apiLatency": 661.9666668574015
+  }
+]

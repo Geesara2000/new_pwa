@@ -1,0 +1,237 @@
+{
+  "meta": {
+    "experimentId": "2f598695-dbb7-4065-a3ba-28e3e48b9874",
+    "version": "C",
+    "runNumber": 1,
+    "network": "Offline",
+    "battery": "LOW",
+    "browser": "Chromium",
+    "os": "darwin",
+    "timestamp": "2026-07-15T08:33:40.928Z",
+    "status": "completed",
+    "duration": 24609
+  },
+  "metrics": {
+    "api": [
+      {
+        "url": "http://127.0.0.1:8000/api/products",
+        "method": "GET",
+        "responseTime": 175.2999997138977,
+        "statusCode": 200,
+        "payloadSize": 3622,
+        "timestamp": 1784104435530
+      },
+      {
+        "url": "http://127.0.0.1:8000/api/products",
+        "method": "GET",
+        "responseTime": 332,
+        "statusCode": 200,
+        "payloadSize": 3622,
+        "timestamp": 1784104435531
+      },
+      {
+        "url": "http://127.0.0.1:8000/api/products",
+        "method": "GET",
+        "responseTime": 14.199999809265137,
+        "statusCode": 200,
+        "payloadSize": 3622,
+        "timestamp": 1784104436542
+      }
+    ],
+    "cache": [
+      {
+        "timestamp": 1784104436543,
+        "event": "miss",
+        "resourceName": "/api/products",
+        "strategyUsed": "Cache First"
+      },
+      {
+        "timestamp": 1784104436555,
+        "event": "write",
+        "resourceName": "/api/products",
+        "strategyUsed": "Cache First",
+        "responseTime": 1.299999713897705
+      },
+      {
+        "timestamp": 1784104436851,
+        "event": "network-request",
+        "resourceName": "/photo-1505740420928-5e560c06d30e",
+        "strategyUsed": "Network First",
+        "responseTime": 352
+      },
+      {
+        "timestamp": 1784104436919,
+        "event": "network-request",
+        "resourceName": "/photo-1507473885765-e6ed057f782c",
+        "strategyUsed": "Network First",
+        "responseTime": 419.80000019073486
+      },
+      {
+        "timestamp": 1784104436981,
+        "event": "network-request",
+        "resourceName": "/photo-1523275335684-37898b6baf30",
+        "strategyUsed": "Network First",
+        "responseTime": 483
+      },
+      {
+        "timestamp": 1784104436985,
+        "event": "network-request",
+        "resourceName": "/photo-1587829741301-dc798b83add3",
+        "strategyUsed": "Network First",
+        "responseTime": 486.59999990463257
+      },
+      {
+        "timestamp": 1784104437058,
+        "event": "network-request",
+        "resourceName": "/photo-1597872200969-2b65d56bd16b",
+        "strategyUsed": "Network First",
+        "responseTime": 559
+      },
+      {
+        "timestamp": 1784104437097,
+        "event": "network-request",
+        "resourceName": "/photo-1615663245857-ac93bb7c39e7",
+        "strategyUsed": "Network First",
+        "responseTime": 598.5
+      },
+      {
+        "timestamp": 1784104437222,
+        "event": "network-request",
+        "resourceName": "/photo-1609592424109-dd9892f1b17c",
+        "strategyUsed": "Network First",
+        "responseTime": 722.5999999046326
+      },
+      {
+        "timestamp": 1784104437255,
+        "event": "network-request",
+        "resourceName": "/photo-1553062407-98eeb64c6a62",
+        "strategyUsed": "Network First",
+        "responseTime": 754.7999997138977
+      },
+      {
+        "timestamp": 1784104437255,
+        "event": "network-request",
+        "resourceName": "/photo-1590602847861-f357a9332bbc",
+        "strategyUsed": "Network First",
+        "responseTime": 754.7000002861023
+      },
+      {
+        "timestamp": 1784104437354,
+        "event": "network-request",
+        "resourceName": "/photo-1602143407151-7111542de6e8",
+        "strategyUsed": "Network First",
+        "responseTime": 855
+      }
+    ],
+    "adaptive": [
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1523275335684-37898b6baf30"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1505740420928-5e560c06d30e"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1587829741301-dc798b83add3"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1507473885765-e6ed057f782c"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1615663245857-ac93bb7c39e7"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1597872200969-2b65d56bd16b"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1609592424109-dd9892f1b17c"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1602143407151-7111542de6e8"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1553062407-98eeb64c6a62"
+      },
+      {
+        "timestamp": 1784104436500,
+        "batteryMode": "HIGH",
+        "networkMode": "Fast4G",
+        "selectedStrategy": "Network First",
+        "reason": "Optimal conditions (Fast4G + Battery HIGH) - prioritizing fresh data",
+        "resourceName": "/photo-1590602847861-f357a9332bbc"
+      },
+      {
+        "timestamp": 1784104436542,
+        "batteryMode": "LOW",
+        "networkMode": "Offline",
+        "selectedStrategy": "Cache First",
+        "reason": "Network is Offline - serving cached content",
+        "resourceName": "/api/products"
+      }
+    ],
+    "offline": {
+      "queueCreated": false,
+      "queueLength": 0,
+      "syncSuccess": 1,
+      "syncFailure": 0
+    },
+    "performance": {
+      "domContentLoaded": 14397.300000190735,
+      "loadComplete": 14397.700000286102,
+      "fcp": 14440,
+      "ttfb": 3.8000001907348633
+    },
+    "network": {
+      "totalRequests": 32,
+      "failedRequests": 0,
+      "transferredBytes": 3208360,
+      "loadTime": 15274.511834000237
+    },
+    "cacheHitRatio": 0,
+    "cacheMissRatio": 1
+  }
+}

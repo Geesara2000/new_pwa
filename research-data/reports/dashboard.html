@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PWA Research Dashboard - Smart Adaptive Caching</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', system-ui, sans-serif; background: #0f172a; color: #e2e8f0; }
+  header { background: #1e293b; border-bottom: 1px solid #334155; padding: 24px 32px; }
+  header h1 { font-size: 24px; font-weight: 700; color: #f1f5f9; }
+  header p { color: #94a3b8; margin-top: 4px; }
+  .badges { display: flex; gap: 12px; margin-top: 12px; }
+  .badge { background: #1e293b; border: 1px solid #334155; border-radius: 6px; padding: 4px 12px; font-size: 12px; color: #94a3b8; }
+  .badge strong { color: #e2e8f0; }
+  main { max-width: 1400px; margin: 0 auto; padding: 32px; }
+  .grid-2 { display: grid; grid-template-columns: repeat(2, 1fr); gap: 24px; margin-bottom: 24px; }
+  .grid-3 { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-bottom: 24px; }
+  .card { background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 24px; }
+  .card h2 { font-size: 16px; font-weight: 600; color: #94a3b8; margin-bottom: 16px; text-transform: uppercase; letter-spacing: 0.5px; }
+  .card canvas { max-height: 300px; }
+  .stat-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 16px; margin-bottom: 24px; }
+  .stat-card { background: #1e293b; border: 1px solid #334155; border-radius: 12px; padding: 20px; }
+  .stat-card .label { font-size: 12px; color: #64748b; text-transform: uppercase; letter-spacing: 1px; }
+  .stat-card .value { font-size: 28px; font-weight: 700; color: #f1f5f9; margin: 4px 0; }
+  .stat-card .sub { font-size: 12px; color: #94a3b8; }
+  table { width: 100%; border-collapse: collapse; }
+  th { text-align: left; padding: 8px 12px; font-size: 12px; color: #64748b; text-transform: uppercase; border-bottom: 1px solid #334155; }
+  td { padding: 8px 12px; font-size: 13px; border-bottom: 1px solid #1e293b; }
+  tr:hover td { background: #0f172a; }
+  .sig-yes { color: #10b981; font-weight: 600; }
+  .sig-no { color: #64748b; }
+  .version-a { color: #6366f1; }
+  .version-b { color: #10b981; }
+  .version-c { color: #8b5cf6; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Smart Adaptive Caching PWA — Research Dashboard</h1>
+  <p>Automated experiment results comparing Traditional, Fixed, and Adaptive caching strategies</p>
+  <div class="badges">
+    <div class="badge">Generated: <strong>7/15/2026, 2:09:08 PM</strong></div>
+    <div class="badge">Total Runs: <strong>120</strong></div>
+    <div class="badge">Completed: <strong>120</strong></div>
+  </div>
+</header>
+
+<main>
+  <!-- Summary Stats -->
+  <div class="stat-grid">
+    <div class="stat-card">
+      <div class="label">Version A Runs</div>
+      <div class="value version-a">30</div>
+      <div class="sub">Traditional Web App</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Version B Runs</div>
+      <div class="value version-b">30</div>
+      <div class="sub">Fixed Strategy PWA</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">Version C Runs</div>
+      <div class="value version-c">60</div>
+      <div class="sub">Adaptive Smart PWA</div>
+    </div>
+    <div class="stat-card">
+      <div class="label">ANOVA Significant</div>
+      <div class="value" style="color: #ef4444">NO</div>
+      <div class="sub">F = 0.3203</div>
+    </div>
+  </div>
+
+  <!-- Charts -->
+  <div class="grid-2">
+    <div class="card">
+      <h2>First Contentful Paint (FCP) by Version</h2>
+      <canvas id="fcpChart"></canvas>
+    </div>
+    <div class="card">
+      <h2>Average API Latency by Version</h2>
+      <canvas id="latencyChart"></canvas>
+    </div>
+  </div>
+
+  <div class="grid-2">
+    <div class="card">
+      <h2>Cache Hit Ratio (Version B vs C)</h2>
+      <canvas id="cacheHitChart"></canvas>
+    </div>
+    <div class="card">
+      <h2>Experiment Status Distribution</h2>
+      <canvas id="statusChart"></canvas>
+    </div>
+  </div>
+
+  <!-- Statistics Table -->
+  <div class="card" style="margin-bottom: 24px;">
+    <h2>Descriptive Statistics — API Latency (ms)</h2>
+    <table>
+      <thead>
+        <tr><th>Version</th><th>N</th><th>Mean</th><th>Median</th><th>Min</th><th>Max</th><th>Std Dev</th><th>CI 95% Lower</th><th>CI 95% Upper</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+            <td class="version-a">Version A (Traditional)</td>
+            <td>30</td>
+            <td>333.22</td>
+            <td>217.62</td>
+            <td>160.33</td>
+            <td>661.97</td>
+            <td>204.01</td>
+            <td>260.21</td>
+            <td>406.22</td>
+          </tr><tr>
+            <td class="version-b">Version B (Fixed PWA)</td>
+            <td>30</td>
+            <td>345.01</td>
+            <td>242.10</td>
+            <td>213.20</td>
+            <td>589.13</td>
+            <td>165.34</td>
+            <td>285.85</td>
+            <td>404.18</td>
+          </tr><tr>
+            <td class="version-c">Version C (Adaptive PWA)</td>
+            <td>60</td>
+            <td>315.17</td>
+            <td>230.33</td>
+            <td>172.40</td>
+            <td>594.88</td>
+            <td>160.65</td>
+            <td>274.52</td>
+            <td>355.82</td>
+          </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- ANOVA Table -->
+  <div class="card">
+    <h2>One-Way ANOVA — API Latency across Versions</h2>
+    <table>
+      <thead>
+        <tr><th>F Statistic</th><th>df Between</th><th>df Within</th><th>MS Between</th><th>MS Within</th><th>Significant (α=0.05)</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>0.3203</td>
+          <td>2</td>
+          <td>117</td>
+          <td>9644.0661</td>
+          <td>30107.4876</td>
+          <td class="sig-no">✗ NO</td>
+        </tr>
+      </tbody>
+    </table>
+    <p style="color:#64748b; margin-top:12px;">Tukey HSD not performed (ANOVA not significant)</p>
+  </div>
+</main>
+
+<script>
+const chartDefaults = {
+  plugins: { legend: { labels: { color: '#94a3b8' } } },
+  scales: {
+    x: { ticks: { color: '#94a3b8' }, grid: { color: '#1e293b' } },
+    y: { ticks: { color: '#94a3b8' }, grid: { color: '#334155' } }
+  }
+};
+
+// FCP Chart
+new Chart(document.getElementById('fcpChart'), {
+  type: 'bar',
+  data: {
+    labels: ["Version A (Traditional)","Version B (Fixed PWA)","Version C (Adaptive PWA)"],
+    datasets: [{
+      label: 'Mean FCP (ms)',
+      data: ["28692.80","28971.47","29082.53"],
+      backgroundColor: ['#6366f1', '#10b981', '#8b5cf6'],
+    }]
+  },
+  options: { ...chartDefaults, plugins: { ...chartDefaults.plugins } }
+});
+
+// Latency Chart
+new Chart(document.getElementById('latencyChart'), {
+  type: 'bar',
+  data: {
+    labels: ["Version A (Traditional)","Version B (Fixed PWA)","Version C (Adaptive PWA)"],
+    datasets: [{
+      label: 'Mean Latency (ms)',
+      data: ["333.22","345.01","315.17"],
+      backgroundColor: ['#6366f1', '#10b981', '#8b5cf6'],
+    }]
+  },
+  options: { ...chartDefaults }
+});
+
+// Cache Hit Chart
+new Chart(document.getElementById('cacheHitChart'), {
+  type: 'bar',
+  data: {
+    labels: ["Version B (Fixed PWA)","Version C (Adaptive PWA)"],
+    datasets: [{
+      label: 'Cache Hit Ratio',
+      data: ["0.000","0.000"],
+      backgroundColor: ['#10b981', '#8b5cf6'],
+    }]
+  },
+  options: { ...chartDefaults, scales: { ...chartDefaults.scales, y: { ...chartDefaults.scales.y, max: 1 } } }
+});
+
+// Status Chart
+const completed = 120;
+const failed = 0;
+new Chart(document.getElementById('statusChart'), {
+  type: 'doughnut',
+  data: {
+    labels: ['Completed', 'Failed'],
+    datasets: [{ data: [completed, failed], backgroundColor: ['#10b981', '#ef4444'] }]
+  },
+  options: { plugins: { legend: { labels: { color: '#94a3b8' } } } }
+});
+</script>
+</body>
+</html>

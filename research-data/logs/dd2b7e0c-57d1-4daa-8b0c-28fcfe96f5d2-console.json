@@ -1,0 +1,52 @@
+[
+  {
+    "type": "debug",
+    "text": "[vite] connecting...",
+    "timestamp": 1784102608223
+  },
+  {
+    "type": "debug",
+    "text": "[vite] connected.",
+    "timestamp": 1784102608411
+  },
+  {
+    "type": "info",
+    "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+    "timestamp": 1784102619354
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784102619403
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784102619404
+  },
+  {
+    "type": "log",
+    "text": "[Battery Simulator] Mode set to LOW",
+    "timestamp": 1784102620315
+  },
+  {
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 ()",
+    "timestamp": 1784102620767
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784102619402
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784102619403
+  },
+  {
+    "type": "log",
+    "message": "[Battery Simulator] Mode set to LOW",
+    "timestamp": 1784102620314
+  }
+]

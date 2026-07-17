@@ -1,0 +1,64 @@
+{
+  "meta": {
+    "experimentId": "a3a50c73-9d0a-44c1-9a7d-8f3edeec8399",
+    "version": "A",
+    "runNumber": 5,
+    "network": "Fast4G",
+    "battery": "N/A",
+    "browser": "Chromium",
+    "os": "darwin",
+    "timestamp": "2026-07-15T07:22:45.543Z",
+    "status": "completed",
+    "duration": 21614
+  },
+  "metrics": {
+    "api": [
+      {
+        "url": "http://127.0.0.1:8000/api/products",
+        "method": "GET",
+        "responseTime": 163.09999990463257,
+        "statusCode": 200,
+        "payloadSize": 3622,
+        "timestamp": 1784100180306
+      },
+      {
+        "url": "http://127.0.0.1:8000/api/products",
+        "method": "GET",
+        "responseTime": 318.2000002861023,
+        "statusCode": 200,
+        "payloadSize": 3622,
+        "timestamp": 1784100180308
+      },
+      {
+        "url": "http://127.0.0.1:8000/api/orders",
+        "method": "POST",
+        "responseTime": 174,
+        "statusCode": 201,
+        "payloadSize": 281,
+        "timestamp": 1784100185100
+      }
+    ],
+    "cache": [],
+    "adaptive": [],
+    "offline": {
+      "queueCreated": false,
+      "queueLength": 0,
+      "syncSuccess": 0,
+      "syncFailure": 0
+    },
+    "performance": {
+      "domContentLoaded": 14175.099999904633,
+      "loadComplete": 14176.599999904633,
+      "fcp": 14252,
+      "ttfb": 11.900000095367432
+    },
+    "network": {
+      "totalRequests": 27,
+      "failedRequests": 1,
+      "transferredBytes": 3161729,
+      "loadTime": 15075.297749999998
+    },
+    "cacheHitRatio": 0,
+    "cacheMissRatio": 0
+  }
+}

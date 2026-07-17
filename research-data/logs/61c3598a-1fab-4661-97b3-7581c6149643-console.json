@@ -1,0 +1,62 @@
+[
+  {
+    "type": "debug",
+    "text": "[vite] connecting...",
+    "timestamp": 1784102980981
+  },
+  {
+    "type": "debug",
+    "text": "[vite] connected.",
+    "timestamp": 1784102981613
+  },
+  {
+    "type": "info",
+    "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+    "timestamp": 1784103026300
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784103026392
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784103026392
+  },
+  {
+    "type": "log",
+    "text": "[Battery Simulator] Mode set to HIGH",
+    "timestamp": 1784103026395
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784103026864
+  },
+  {
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 ()",
+    "timestamp": 1784103027698
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784103026376
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784103026378
+  },
+  {
+    "type": "log",
+    "message": "[Battery Simulator] Mode set to HIGH",
+    "timestamp": 1784103026395
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784103026863
+  }
+]

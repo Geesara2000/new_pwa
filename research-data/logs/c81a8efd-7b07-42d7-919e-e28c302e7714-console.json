@@ -1,0 +1,17 @@
+[
+  {
+    "type": "debug",
+    "text": "[vite] connecting...",
+    "timestamp": 1784100649407
+  },
+  {
+    "type": "debug",
+    "text": "[vite] connected.",
+    "timestamp": 1784100649992
+  },
+  {
+    "type": "info",
+    "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+    "timestamp": 1784100693854
+  }
+]

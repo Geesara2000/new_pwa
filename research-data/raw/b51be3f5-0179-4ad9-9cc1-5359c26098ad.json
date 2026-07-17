@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "experimentId": "b51be3f5-0179-4ad9-9cc1-5359c26098ad",
+    "version": "B",
+    "runNumber": 9,
+    "network": "Fast4G",
+    "battery": "N/A",
+    "browser": "Chromium",
+    "os": "darwin",
+    "timestamp": "2026-07-15T07:43:25.829Z",
+    "status": "completed",
+    "duration": 21454
+  },
+  "metrics": {
+    "api": [
+      {
+        "url": "http://127.0.0.1:8000/api/products",
+        "method": "GET",
+        "responseTime": 165,
+        "statusCode": 200,
+        "payloadSize": 3622,
+        "timestamp": 1784101420382
+      },
+      {
+        "url": "http://127.0.0.1:8000/api/products",
+        "method": "GET",
+        "responseTime": 319.19999980926514,
+        "statusCode": 200,
+        "payloadSize": 3622,
+        "timestamp": 1784101420383
+      },
+      {
+        "url": "http://127.0.0.1:8000/api/orders",
+        "method": "POST",
+        "responseTime": 166.5,
+        "statusCode": 201,
+        "payloadSize": 282,
+        "timestamp": 1784101425204
+      }
+    ],
+    "cache": [
+      {
+        "timestamp": 1784101421348,
+        "event": "miss",
+        "resourceName": "/photo-1523275335684-37898b6baf30",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1505740420928-5e560c06d30e",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1587829741301-dc798b83add3",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1507473885765-e6ed057f782c",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1615663245857-ac93bb7c39e7",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1597872200969-2b65d56bd16b",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1609592424109-dd9892f1b17c",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1602143407151-7111542de6e8",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1553062407-98eeb64c6a62",
+        "strategyUsed": "Stale-While-Revalidate"
+      },
+      {
+        "timestamp": 1784101421350,
+        "event": "miss",
+        "resourceName": "/photo-1590602847861-f357a9332bbc",
+        "strategyUsed": "Stale-While-Revalidate"
+      }
+    ],
+    "adaptive": [],
+    "offline": {
+      "queueCreated": false,
+      "queueLength": 0,
+      "syncSuccess": 0,
+      "syncFailure": 0
+    },
+    "performance": {
+      "domContentLoaded": 14357.199999809265,
+      "loadComplete": 14357.699999809265,
+      "fcp": 14404,
+      "ttfb": 3.5999999046325684
+    },
+    "network": {
+      "totalRequests": 30,
+      "failedRequests": 0,
+      "transferredBytes": 3195728,
+      "loadTime": 15224.671208000043
+    },
+    "cacheHitRatio": 0,
+    "cacheMissRatio": 1
+  }
+}

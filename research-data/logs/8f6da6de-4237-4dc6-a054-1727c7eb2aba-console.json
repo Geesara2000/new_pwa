@@ -1,0 +1,112 @@
+[
+  {
+    "type": "debug",
+    "text": "[vite] connecting...",
+    "timestamp": 1784104398320
+  },
+  {
+    "type": "debug",
+    "text": "[vite] connected.",
+    "timestamp": 1784104398521
+  },
+  {
+    "type": "info",
+    "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+    "timestamp": 1784104409379
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784104409426
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784104409426
+  },
+  {
+    "type": "log",
+    "text": "[Battery Simulator] Mode set to HIGH",
+    "timestamp": 1784104410317
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version C) ServiceWorkerRegistration",
+    "timestamp": 1784104410427
+  },
+  {
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 ()",
+    "timestamp": 1784104410952
+  },
+  {
+    "type": "log",
+    "text": "[Offline Queue] Order stored in IndexedDB: {orders: Array(1), customer_name: Research Automation Bot, customer_email: automation@research.test, timestamp: 1784104414272}",
+    "timestamp": 1784104414287
+  },
+  {
+    "type": "log",
+    "text": "[Sync] Starting synchronization of offline queue. Count: 1",
+    "timestamp": 1784104416347
+  },
+  {
+    "type": "log",
+    "text": "[Offline Queue] Order removed from IndexedDB, ID: 1",
+    "timestamp": 1784104416364
+  },
+  {
+    "type": "log",
+    "text": "[Sync] Order successfully synchronized: 1",
+    "timestamp": 1784104416364
+  },
+  {
+    "type": "log",
+    "text": "[Sync] Finished. Success: 1, Failures: 0",
+    "timestamp": 1784104416364
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784104409424
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784104409424
+  },
+  {
+    "type": "log",
+    "message": "[Battery Simulator] Mode set to HIGH",
+    "timestamp": 1784104410317
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version C) [object ServiceWorkerRegistration]",
+    "timestamp": 1784104410426
+  },
+  {
+    "type": "log",
+    "message": "[Offline Queue] Order stored in IndexedDB: [object Object]",
+    "timestamp": 1784104414287
+  },
+  {
+    "type": "log",
+    "message": "[Sync] Starting synchronization of offline queue. Count: 1",
+    "timestamp": 1784104416346
+  },
+  {
+    "type": "log",
+    "message": "[Offline Queue] Order removed from IndexedDB, ID: 1",
+    "timestamp": 1784104416363
+  },
+  {
+    "type": "log",
+    "message": "[Sync] Order successfully synchronized: 1",
+    "timestamp": 1784104416364
+  },
+  {
+    "type": "log",
+    "message": "[Sync] Finished. Success: 1, Failures: 0",
+    "timestamp": 1784104416364
+  }
+]

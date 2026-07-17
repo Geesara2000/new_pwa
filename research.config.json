@@ -1,0 +1,38 @@
+{
+  "runs": 10,
+  "retries": 2,
+  "versions": ["A", "B", "C"],
+  "network_profiles": {
+    "Fast4G": {
+      "downloadThroughput": 1600000,
+      "uploadThroughput": 750000,
+      "latency": 150
+    },
+    "Slow3G": {
+      "downloadThroughput": 400000,
+      "uploadThroughput": 400000,
+      "latency": 400
+    },
+    "Offline": {
+      "downloadThroughput": 0,
+      "uploadThroughput": 0,
+      "latency": 0,
+      "offline": true
+    }
+  },
+  "battery_modes": ["HIGH", "LOW"],
+  "backend": {
+    "url": "http://127.0.0.1:8000",
+    "db_connection": "mysql",
+    "db_host": "127.0.0.1",
+    "db_port": 3306,
+    "db_database": "new_pwa_research",
+    "db_username": "root",
+    "db_password": ""
+  },
+  "frontends": {
+    "A": "http://localhost:3001",
+    "B": "http://localhost:3002",
+    "C": "http://localhost:3003"
+  }
+}

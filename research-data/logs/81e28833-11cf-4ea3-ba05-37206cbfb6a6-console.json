@@ -1,0 +1,42 @@
+[
+  {
+    "type": "debug",
+    "text": "[vite] connecting...",
+    "timestamp": 1784101795427
+  },
+  {
+    "type": "debug",
+    "text": "[vite] connected.",
+    "timestamp": 1784101796001
+  },
+  {
+    "type": "info",
+    "text": "%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold",
+    "timestamp": 1784101840368
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version B) ServiceWorkerRegistration",
+    "timestamp": 1784101840444
+  },
+  {
+    "type": "log",
+    "text": "Service Worker Registered (Version B) ServiceWorkerRegistration",
+    "timestamp": 1784101840444
+  },
+  {
+    "type": "error",
+    "text": "Failed to load resource: the server responded with a status of 404 ()",
+    "timestamp": 1784101841460
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version B) [object ServiceWorkerRegistration]",
+    "timestamp": 1784101840443
+  },
+  {
+    "type": "log",
+    "message": "Service Worker Registered (Version B) [object ServiceWorkerRegistration]",
+    "timestamp": 1784101840444
+  }
+]
